@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Sun Oct 29 23:04:28 2017
+# Process ID: 11464
+# Current directory: F:/Project/digital circuit/single_cycle_cpu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8852 F:\Project\digital circuit\single_cycle_cpu\single_cycle_cpu.xpr
+# Log file: F:/Project/digital circuit/single_cycle_cpu/vivado.log
+# Journal file: F:/Project/digital circuit/single_cycle_cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {F:/Project/digital circuit/single_cycle_cpu/single_cycle_cpu.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2017.1/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:14 . Memory (MB): peak = 695.219 ; gain = 6.785
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct 30 00:31:31 2017...

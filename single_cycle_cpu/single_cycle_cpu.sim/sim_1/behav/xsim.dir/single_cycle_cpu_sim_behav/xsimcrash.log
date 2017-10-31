@@ -1,0 +1,51 @@
+Unable to capture context for thread 4716 in process 20396, can not generate back trace
+Unable to capture context for thread 13376 in process 20396, can not generate back trace
+Unable to capture context for thread 12060 in process 20396, can not generate back trace
+Unable to capture context for thread 18256 in process 20396, can not generate back trace
+Unable to capture context for thread 1108 in process 20396, can not generate back trace
+Unable to capture context for thread 9268 in process 20396, can not generate back trace
+Unable to capture context for thread 20032 in process 20396, can not generate back trace
+Unable to capture context for thread 17808 in process 20396, can not generate back trace
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Unable to capture context for thread 12168 in process 20396, can not generate back trace
+Unable to capture context for thread 16428 in process 20396, can not generate back trace
+Unable to capture context for thread 16576 in process 20396, can not generate back trace
+Exception at PC 0x00007FFC52F19E08
+Unable to capture context for thread 12168 in process 20396, can not generate back trace
+Unable to capture context for thread 16576 in process 20396, can not generate back trace
+Exception at PC 0x00007FFBF00FBB93
+Printing stacktrace...
+
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+Exception at PC 0x00007FFC52F19E08
+[0]  [0x00007FFBF00FBB93]
+[1]  [0x00007FFBF00FBB93]
+[2]  [0x00007FFBF00FB4A1]
+[3]  [0x00007FFBF00FB3EF]
+[4]  [0x00007FFBF00E19FE]
+[5]  [0x00007FFBF00E0ED1]
+[6]  [0x00007FFBF00E0D76]
+[7]  [0x00007FFBF00879F6]
+[8]  [0x00007FFBF0077AFB]
+[9]  [0x00007FFBF019E90A]
+[10]  [0x00007FFBF01B9F87]
+[11]  [0x00007FFBF01BA05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFC53482774]
+[13] (RtlUserThreadStart+0x21) [0x00007FFC55ED0D51]
+Done

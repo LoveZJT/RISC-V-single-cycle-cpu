@@ -1,0 +1,7 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+F:/Project/digital circuit/single_cycle_cpu/single_cycle_cpu.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+F:/Project/digital circuit/single_cycle_cpu/single_cycle_cpu.srcs/sim_1/new/single_cycle_cpu_sim.v,1509198516,verilog,,,,single_cycle_cpu_sim,,,,,,,,
+F:/Project/digital circuit/single_cycle_cpu/single_cycle_cpu.srcs/sources_1/new/single_cycle_cpu.v,1509281782,verilog,,,,ALU;B_pick;Shift;Shift_amount_pick;control;get_instr;next_pc;rd_in_pick;registers;single_cycle_cpu,,,,,,,,
